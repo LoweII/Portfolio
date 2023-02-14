@@ -1,7 +1,7 @@
 # Nosetta Dashboard Project
 
 ## Overview
-To help a growing business, Nosetta, I decided to help with the analytics of their brand’s Instagram page. After extracting the data from the Instagram page, I then put it into python to clean the dataset and transform it into usable data. I then loaded it into Excel and SQL to acquire results to improve the interactions of the Instagram page. Finished with a dynamic dashboard in excel.
+To help a growing business, Nosetta, I decided to help with the analytics of their brand’s Instagram page. After extracting the data from the Instagram page, I then put it into python to clean the dataset and transform it into usable data. I then loaded it into Excel and SQL to acquire results to improve the interactions of the Instagram page. Finished with a dynamic dashboard in excel that can be seen here: https://1drv.ms/x/s!Agn0NXYGHApBgaN11P05E6SjkVgLOQ?e=avbmC3
 ## Extraction
 To extract the data from the Instagram page, I used instaloader. Instaloader is a python library meant to scrap pages on Instagram. From the scrape I then put the data into a dataFrame to be sorted and exported.
 ## Transforming
