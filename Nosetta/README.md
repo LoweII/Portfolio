@@ -7,3 +7,5 @@ This project uses Pythong to scrape and clean the data.
 Then uses Excel and SQL to process the data and acquire results.
 
 Finally outputs the data with a dashboard in Excel.
+
+Dashboard can be seen here: Nosetta Dashboard.xlsx
