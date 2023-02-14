@@ -3,12 +3,12 @@
 
 
 # Create a copy to not mess with master Data 
-cleanTimeData = masterData.copy()
+cleanTimeData = nosettaIGData.copy()
 
 
 # Getting the data from a series to strings
 dateString = ""
-for date in masterData.Date:
+for date in cleanTimeData.Date:
     dateString = dateString + str(date) + ","
     
     
