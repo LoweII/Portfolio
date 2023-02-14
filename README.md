@@ -1,4 +1,4 @@
 # Portfolio
-Data Analysis Projects that I've worked on
+Data Analysis Projects that I've completed.
 
 1. Nosetta Dashboard
