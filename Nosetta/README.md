@@ -9,15 +9,15 @@ While transforming the data there was not too many issues that occurred. The big
 ## Loading
 The best tools to load the dataFrame into was excel and SQL. I used SQL to figure out some of the better options for hashtags, and mentions while restricting the minimum times used. The rest of the analysis could be done by excel’ s pivot tables. Using the pivot table I created 5 graphs that help in choosing the right parameters when posting to get as much interaction as the post can. Then turning the 5 graphs into a dynamic dashboard to bring all the results into screen.
 ## Results
-According to the data, if a post with 4 lines before the 2 mentions and 3 lines after that for 30 tags is posted at 8:00 pm CET 
-
-(Caption will go here)
-.
-.
-.
-@mention1 @mention2
-.
-.
-#tag1#tag2 #tag3 …
- #tag29 #tag30 (There should be 8 rows of tags)
+According to the data, if a post with 4 lines before the 2 mentions and 3 lines after that for 30 tags is posted at 8:00 pm CET. Format would look like this:
+  
+(Caption will go here)  
+.  
+.  
+.  
+@mention1 @mention2  
+.  
+.  
+#tag1#tag2 #tag3 …  
+#tag29 #tag30 (There should be 8 rows of tags)  
 
