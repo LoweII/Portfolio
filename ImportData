@@ -1,9 +1,0 @@
-# This segment is just for importing libraries and calling the original dataset we will be working on
-
-import numpy as np
-import pandas as pd
-import math 
-import scipy.stats as stats
-
-masterData = pd.read_csv("ogData.csv")
-masterData
